@@ -1,0 +1,6 @@
+/* Import optimized styles first */
+@import './styles/optimized.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
