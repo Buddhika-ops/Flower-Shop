@@ -56,7 +56,7 @@ const ProductsPage = () => {
           description="Find the perfect arrangement for any occasion."
         />
 
-        {/* Category Filters */}
+        {/* Fix Category Filters */}
         <div className="flex flex-wrap gap-3 mb-10">
           {categories.map(category => (
             <button
