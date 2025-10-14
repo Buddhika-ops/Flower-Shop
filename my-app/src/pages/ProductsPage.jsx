@@ -73,7 +73,7 @@ const ProductsPage = () => {
           ))}
         </div>
 
-        {/* Products Grid */}
+        {/* Update Products Grid */}
         {filteredProducts.length === 0 ? (
           <div className="py-16 text-center text-gray-600">
             No products found.
